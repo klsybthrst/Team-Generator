@@ -8,13 +8,13 @@
 
 <h2>Contributions/Acknowledgements</h2>
 <ul>
-  <il>Levi, for helping me test</il>
-  <il>Fil, for his instruction</il>
-  <il>Trilogy for providing some base code</il>
+  <li>Levi, for helping me test</li>
+  <li>Fil, for his instruction</li>
+  <li>Trilogy for providing some base code</li>
 </ul>
 
 <h2>Support</h2>
-<p>Feel free to message over github at github.com/klsybthrst</p>
+<p>Feel free to message over github at https://github.com/klsybthrst</p>
 
 <h2>Screenshots</h2>
 <img width="469" alt="Screen Shot 2020-11-01 at 2 36 23 PM" src="https://user-images.githubusercontent.com/70531552/97812496-a15aab00-1c4f-11eb-9216-6efdcf433f94.png">
